@@ -12,6 +12,6 @@
   - Run Laravel 11 App
 
   Run below commands:
-  php artisan key:generate
-  php artisan migrate
-  php artisan serve
+  - php artisan key:generate
+  - php artisan migrate
+  - php artisan serve
