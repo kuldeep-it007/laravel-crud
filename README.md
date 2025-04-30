@@ -10,3 +10,8 @@
   - Step 7: Update AppServiceProvider
   - Step 8: Add Blade Files
   - Run Laravel 11 App
+
+  Run below commands:
+  php artisan key:generate
+  php artisan migrate
+  php artisan serve
